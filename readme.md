@@ -1,4 +1,4 @@
-# This is the change that I have made to the readme.md file 
+# this is the change being made for week 3 of the se441 project
 
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
